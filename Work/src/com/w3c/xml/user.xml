@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<user id="101">
+		<name>张三</name>
+		<password>659866</password>
+		<tel>18178954121</tel>
+	</user>
+	
+	<user id="102">
+		<name>李四</name>
+		<password>97313554</password>
+		<tel>18178954122</tel>
+	</user>
+	
+	<user id="103">
+		<name>王五</name>
+		<password>1791664</password>
+		<tel>18178954123</tel>
+	</user>
+	
+	<user id="104">
+		<name>赵六</name>
+		<password>4932699</password>
+		<tel>18178954124</tel>
+	</user>
+	
+	<user id="105">
+		<name>孙七</name>
+		<password>56597655</password>
+		<tel>18178954125</tel>
+	</user>
+</list>
